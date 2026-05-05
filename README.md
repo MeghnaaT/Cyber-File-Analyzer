@@ -1,4 +1,4 @@
-# 🔐 CyberGuard AI — Cyber Threat Intelligence Platform
+# 🔐 CyberGuard AI — Full-stack OSINT cyber threat intelligence platform — URL, file, IP, email analysis with unified risk scoring
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
